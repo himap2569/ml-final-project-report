@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title and Team Information
-st.title('CS7641: Project Midterm Report')
+st.title('CS7641: Project Final Report')
 
 st.subheader('(Group 42)')
 
